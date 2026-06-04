@@ -26,7 +26,7 @@ canvas{
 </head>
 <body>
 
-<h1><h1>Integración de Tres APIs utilizando Chart.js</h1>
+<h1>Integración de Tres APIs utilizando Chart.js</h1>
 
 <canvas id="grafica"></canvas>
 
